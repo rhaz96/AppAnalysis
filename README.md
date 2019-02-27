@@ -17,4 +17,4 @@ Once installed, create a Jupyter notebook in the same folder where the datasets 
 Personal goals of this project include using Python to build functions that open and read data, clean up incorrect data, and extract insights relevant to the project's objective.  
 
 ## Acknowledgements
-This is a project done in conjuction with the [Dataquest](https://www.dataquest.io/home) platform.
+This is a project done in conjunction with the [Dataquest](https://www.dataquest.io/home) platform.
